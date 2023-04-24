@@ -11272,22 +11272,6 @@ pre {
           flex-wrap: wrap;
 }
 
-.contact .contact-infos .item i {
-  display: block;
-  width: 40px;
-  font-size: 16px;
-  color: primary;
-  width: 37px;
-  height: 37px;
-  border-radius: 50%;
-  border: 1px solid #ff7a57;
-  line-height: 34px;
-  text-align: center;
-  padding: 0 !important;
-  color: #ff7a57;
-  margin-right: 15px;
-}
-
 .contact .contact-infos .item div {
   border-bottom: 1px solid #dee2e6;
   margin-bottom: 25px;
