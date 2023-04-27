@@ -11022,8 +11022,8 @@ pre {
   width: 40px;
   height: 40px;
   border-radius: 50%;
-  border: 2px solid #ff7a57;
-  color: #ff7a57;
+  border: 2px solid #6c757d;
+  color: #6c757d;
   text-align: center;
   line-height: 40px;
   -webkit-transition: all 0.3s;
@@ -11032,7 +11032,7 @@ pre {
 }
 
 .socials .social-item:hover {
-  background: #ff7a57;
+  background: #343a40;
   color: #fff;
 }
 
